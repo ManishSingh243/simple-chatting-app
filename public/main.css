@@ -1,0 +1,13 @@
+body{
+    background-color: aliceblue;
+}
+
+.form-body{
+    width: 100%;
+}
+
+.button-body{
+    width: 100%;
+    margin-top: 30px;
+    margin-left: 50px;
+}
